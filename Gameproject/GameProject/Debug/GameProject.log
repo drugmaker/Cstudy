@@ -1,0 +1,4 @@
+﻿  MainPage.c
+c:\users\development\documents\cstudy\gameproject\gameproject\mainpage.c(21): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\development\documents\cstudy\gameproject\gameproject\mainpage.c(61): warning C4098: 'game1': 'void' 함수에서 값을 반환하고 있습니다.
+  GameProject.vcxproj -> C:\Users\development\Documents\Cstudy\Gameproject\GameProject\Debug\GameProject.exe
